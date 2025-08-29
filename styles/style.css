@@ -1,0 +1,12 @@
+/* Nav Bar styles */
+.bg-green-100 {
+    background-color: #f0fdf4; /* Light green from Figma */
+}
+
+.btn.bg-green-600 {
+    background-color: #10b981; /* Darker green for button */
+}
+
+.btn.bg-green-600:hover {
+    background-color: #059669; /* Slightly darker on hover */
+}
