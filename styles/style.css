@@ -4,13 +4,16 @@
 }
 
 .btn.bg-green-600 {
-    background-color: #10b981; 
+    background-color: rgba(0, 166, 62, 1); 
 }
 
 .btn.bg-green-600:hover {
     background-color: #059669; 
 }
 
+.btn.border {
+    border-radius: 50px;
+}
 /* Hero Section styles */
 .hero-gradient {
     background: linear-gradient(to bottom, #013223 0%, #006747 50%, #013223 100%);
